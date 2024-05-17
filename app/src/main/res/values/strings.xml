@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BrightCoveTest</string>
+    <string name="language">Language</string>
+    <string name="premiered">Premiered</string>
+    <string name="status">Status</string>
+    <string name="schedule">Schedule</string>
+    <string name="time">Time</string>
+    <string name="days">Days</string>
+</resources>
